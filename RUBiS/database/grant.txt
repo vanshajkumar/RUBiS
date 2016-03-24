@@ -1,0 +1,1 @@
+GRANT ALL ON rubis.* TO 'rubis'@'%' IDENTIFIED BY 'rubis';
